@@ -1,35 +1,31 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'LoudAboutCloud',
+    siteDescription: 'LIVE Cloud Discussions = We talk with you, not to you.',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
-    pathPrefix: '/',
+    siteUrl: 'https://loudaboutcloud.com/',
+    pathPrefix: '/loudaboutcloud', // add the repo name for github pages here
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Kirk Ryan & Lisa Clark', // for example - 'Ivan Ganev'
+    authorDescription: 'Azure MVPs', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`,
+        url: `mailto:mymail@mail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
+        url: `https://twitter.com/kirk__ryan`
       },
       {
-        icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
-      },
-    ],
+        icon: `twitter`,
+        url: `https://twitter.com/lisaattheedge`
+      }
+    ]
   },
   plugins: [
     {
@@ -40,7 +36,7 @@ module.exports = {
           feedShowMoreButton: 'show more',
           feedSearchPlaceholder: 'search',
           cardReadMoreButton: 'read more →',
-          allTagsButton: 'all tags',
+          allTagsButton: 'all tags'
         },
         feedItems: {
           // global settings for feed items
@@ -49,14 +45,14 @@ module.exports = {
           yearSeparatorSkipFirst: true,
           contentTypes: {
             links: {
-              beforeTitle: '🔗 ',
-            },
-          },
+              beforeTitle: '🔗 '
+            }
+          }
         },
         feedSearch: {
-          symbol: '🔍',
-        },
-      },
+          symbol: '🔍'
+        }
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -67,25 +63,25 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
-      },
+        icon: `src/assets/favicon.png`
+      }
     },
     {
-      resolve: `gatsby-plugin-sitemap`,
+      resolve: `gatsby-plugin-sitemap`
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X',
-      },
+        trackingId: 'UA-XXXXXXXXX-X'
+      }
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
         // replace "chronoblog-1" with your own disqus shortname
-        shortname: `chronoblog-1`,
-      },
-    },
-  ],
+        shortname: `chronoblog-1`
+      }
+    }
+  ]
 };
