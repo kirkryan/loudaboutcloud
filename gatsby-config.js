@@ -10,7 +10,7 @@ module.exports = {
     author: 'Kirk Ryan & Lisa Clark', // for example - 'Ivan Ganev'
     authorDescription: 'Azure MVPs', // short text about the author
     avatar: '/avatar.jpg',
-    twitterSite: '', // website account on twitter
+    twitterSite: '@kirk__ryan', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
