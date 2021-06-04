@@ -1,0 +1,75 @@
+{
+  "name": "chronoblog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-starter-chronoblog",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "start": "gatsby develop"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "es6": true,
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaFeatures": {
+        "impliedStrict": true,
+        "jsx": true
+      },
+      "ecmaVersion": 2019,
+      "sourceType": "module",
+      "useJSXTextNode": true
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [
+            ".js",
+            ".jsx",
+            ".ts",
+            ".tsx",
+            "md",
+            "mdx"
+          ]
+        }
+      },
+      "react": {
+        "version": "detect"
+      }
+    },
+    "plugins": [
+      "prettier"
+    ],
+    "extends": [
+      "plugin:prettier/recommended"
+    ],
+    "rules": {
+      "prettier/prettier": "warn"
+    }
+  },
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "gatsby-plugin-disqus": "^1.1.4",
+    "gatsby-plugin-google-analytics": "^2.1.23",
+    "gatsby-plugin-manifest": "^2.4.11",
+    "gatsby-plugin-sitemap": "^2.2.21",
+    "gatsby-theme-chronoblog": "^0.26.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "engines": {
+    "node": ">=12.21.0"
+  }
+}
