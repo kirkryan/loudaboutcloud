@@ -4,6 +4,7 @@ cover: ./image.jpg
 date: 2019-12-01
 description: All the usual blog post.
 tags: ['post']
+hide: true
 ---
 
 This is an example blog post. All your blog posts should be here: `content/posts`.
