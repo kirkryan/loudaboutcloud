@@ -7,8 +7,8 @@ module.exports = {
     pathPrefix: '/loudaboutcloud', // add the repo name for github pages here
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Kirk Ryan & Lisa Clark', // for example - 'Ivan Ganev'
-    authorDescription: 'Azure MVPs', // short text about the author
+    author: 'Loud About Cloud', // for example - 'Ivan Ganev'
+    authorDescription: 'Built by Kirk Ryan & Lisa Clark', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '@kirk__ryan', // website account on twitter
     twitterCreator: '', // creator account on twitter
