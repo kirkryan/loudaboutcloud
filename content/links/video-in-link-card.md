@@ -6,7 +6,7 @@ tags: ['video', 'link']
 ---
 
 <Embed
-  src="https://youtu.be/kQLzhVVMZLo"
+  src="https://www.youtube.com/embed/kQLzhVVMZLo"
 />
 
 Learn the basics of Terraform in 45 minutes by watching this informative session delivered to the Azure community by Kirk Ryan
