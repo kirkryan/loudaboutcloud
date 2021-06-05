@@ -4,6 +4,7 @@ cover: ./image.jpg
 date: 2019-11-12
 link: https://github.com/Ganevru/gatsby-theme-chronoblog
 tags: ['link', 'project']
+hide: true
 ---
 
 **Link card** is a card, when clicked, the user goes to the specified link.
