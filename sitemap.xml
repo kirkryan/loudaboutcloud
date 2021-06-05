@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://loudaboutcloud.com/tags/video/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/azure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/note/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/podcast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/links/video-in-link-card/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/links/link-to-chronoblog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/note-format/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/podcast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/youtube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/codepen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/google-presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/notes/note-chronoblog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/welcome-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/full-blog-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/aws/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/azure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/gcp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://loudaboutcloud.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
