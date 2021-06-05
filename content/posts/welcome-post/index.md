@@ -8,7 +8,7 @@ tags: ['post']
 
 Welcome to **Loud About Cloud**, the LIVE show where we discuss cloud content creation and communities.
 
-We're 
+We're all about sharing great content and tips for creators.
 
 Join our LIVE twitter spaces on the last Thursday of every month, where you can get up on stage and ask questions to our hosts, and special guests.
 
