@@ -3,7 +3,7 @@ title: Run your site for free using GitHub Pages and Gatsby
 cover: ./sky.jpeg
 date: 2021-06-05
 description: All the usual blog post.
-tags: ['post']
+tags: ['post', 'github', 'gatsby']
 draft: true
 ---
 
@@ -21,8 +21,17 @@ Once you gave Gatsby CLI installed you can then create your first site quickly f
 ## Configure your Gatsby site for GitHub Pages
 
 ## Configure GitHub
+If you are starting from scratch you will need to create what is known as a repo (repository) for your sites code and content. You can do that by: 1,2,3
+
+You'll need to configure GitHub to host your site using GitHub pages. This can be found via settings -> pages. You'll want to set the branch to gh-pages (remember to create it if you dont already have this branch). If you have a custom domain name like louaboutcloud.com, then you can also specify that - you'll need to add some A records to your DNS provider to point to GitHub.
+![image-in-post](./githubpages.png)
+
+## Configure your DNS
+Add the records required
+Verify with GitHub
 
 ## Commit your code to GitHub
+
 `git add .`
 `git commit m "some cool commit message"`
 `git push`
